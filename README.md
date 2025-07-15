@@ -28,6 +28,8 @@ transforms = T.Compose([
 | ResNet-152 (Res-152)                          | Pytorch  | 93.6         |
 | VGG-16 (Vgg-16)                               | Pytorch  | 85.5         |
 | VGG-19 (Vgg-19)                               | Pytorch  | 87.5         |
+| Adv-Inception-v3 (Adv-Inc-v3)                 | timm     | 86.8         |
+| Ens-Adv-Inception-ResNet-v2 (Ens-IncRes-v2)   | timm     | 94.5         |
 ## P2FA
 
 > `python main.py `
