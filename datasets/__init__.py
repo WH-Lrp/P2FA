@@ -1,0 +1,1 @@
+from .nips_2017_adversarial_competition import NIPS2017AdversarialCompetition
